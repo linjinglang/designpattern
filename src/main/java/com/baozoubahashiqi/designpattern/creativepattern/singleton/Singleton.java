@@ -1,6 +1,7 @@
 package com.baozoubahashiqi.designpattern.creativepattern.singleton;
 
 /**
+ * 单例模式饿汉式
  * @author 暴走吧哈士奇
  */
 public class Singleton {
